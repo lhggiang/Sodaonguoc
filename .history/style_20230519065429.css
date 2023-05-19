@@ -1,0 +1,17 @@
+#num {
+  border: 3px solid #aaa;
+}
+
+.btn {
+  display: flex;
+  justify-content: flex-end;
+  padding: 20px;
+}
+
+.ok {
+  background: rgba(0, 0, 255, 0.7);
+  padding: 10px 30px;
+  color: white;
+  border-radius: 9px;
+  border: none;
+}

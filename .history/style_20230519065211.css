@@ -1,0 +1,13 @@
+#num {
+  border: 3px solid #aaa;
+}
+
+.btn {
+  display: flex;
+  justify-content: flex-end;
+  padding: 20px;
+}
+
+.ok {
+  background: blue;
+}
